@@ -4,7 +4,7 @@ public class sasa {
 	
 	public static void main(String[] args) {
 		
-		System.out.println("Siva Kumar");
+		System.out.println("Siva");
 	}
 
 }
